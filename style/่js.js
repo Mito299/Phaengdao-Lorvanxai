@@ -37,6 +37,6 @@ function saySorry() {
     });
     const openLinkBtn = document.getElementById('open-link-btn');
     openLinkBtn.addEventListener('click', () => {
-        window.open('https://example.com', '_blank');
+        window.open('https://bcel.la/onecash/6129205513907', '_blank');
     });
 }
